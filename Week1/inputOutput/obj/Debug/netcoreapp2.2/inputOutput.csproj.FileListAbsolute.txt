@@ -1,0 +1,14 @@
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\inputOutput.deps.json
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\inputOutput.runtimeconfig.json
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\inputOutput.runtimeconfig.dev.json
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\inputOutput.dll
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\inputOutput.pdb
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.csprojAssemblyReference.cache
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.csproj.CoreCompileInputs.cache
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.AssemblyInfoInputs.cache
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.AssemblyInfo.cs
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.dll
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.pdb
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\logic.dll
+C:\Revature\Challenges\Week1\inputOutput\bin\Debug\netcoreapp2.2\logic.pdb
+C:\Revature\Challenges\Week1\inputOutput\obj\Debug\netcoreapp2.2\inputOutput.csproj.CopyComplete

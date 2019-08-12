@@ -1,0 +1,9 @@
+C:\Revature\Challenges\Week1\logic\bin\Debug\netstandard2.0\logic.deps.json
+C:\Revature\Challenges\Week1\logic\bin\Debug\netstandard2.0\logic.dll
+C:\Revature\Challenges\Week1\logic\bin\Debug\netstandard2.0\logic.pdb
+C:\Revature\Challenges\Week1\logic\obj\Debug\netstandard2.0\logic.csprojAssemblyReference.cache
+C:\Revature\Challenges\Week1\logic\obj\Debug\netstandard2.0\logic.csproj.CoreCompileInputs.cache
+C:\Revature\Challenges\Week1\logic\obj\Debug\netstandard2.0\logic.AssemblyInfoInputs.cache
+C:\Revature\Challenges\Week1\logic\obj\Debug\netstandard2.0\logic.AssemblyInfo.cs
+C:\Revature\Challenges\Week1\logic\obj\Debug\netstandard2.0\logic.dll
+C:\Revature\Challenges\Week1\logic\obj\Debug\netstandard2.0\logic.pdb
